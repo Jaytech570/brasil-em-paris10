@@ -1,0 +1,23 @@
+
+{
+  "name": "brasil-em-paris-pro",
+  "version": "4.5.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "lucide-react": "^0.462.0",
+    "lz-string": "^1.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Hospedagem via ESM - No build step required'"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
