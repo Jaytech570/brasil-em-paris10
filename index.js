@@ -44,7 +44,8 @@
 </head>
 <body>
     <div id="root"></div>
-    <script type="module" src="./index.js"></script>
+    <script type="module" src="./index.html"></script>
 </body>
 </html>
+
 
